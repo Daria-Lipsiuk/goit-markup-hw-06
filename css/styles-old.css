@@ -474,11 +474,11 @@ fill: #f4f4fd;
     align-items: center;
     gap: 16px
 }
-/* .footer-item {
+.footer-item {
     height: 100%;
     width: 40px;
     height: 40px;
-} */
+}
 
 .footer-links .icon {
     fill: #f4f4fd;
